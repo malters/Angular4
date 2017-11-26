@@ -1,0 +1,25 @@
+export class Players{
+  id:number;
+  1:string;
+  2:number;
+  3:string;
+  4:number;
+  5:string;
+  6:number;
+  7:string;
+  8:string;
+  9:string;
+  10:string;
+  11:string
+  12:string;
+  13:number;
+  14:number;
+  15:number;
+  16:number
+  17:number;
+  18:number;
+  19:number;
+  20:number;
+  21:number;
+  22:number;
+}
